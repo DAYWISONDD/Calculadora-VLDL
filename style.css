@@ -114,6 +114,7 @@ h3 {
     border-bottom: 2px solid #fff;
     text-align: left;
     overflow-wrap: anywhere;
+    min-width: 0;
 }
 
 .calculadora:hover,
@@ -138,6 +139,8 @@ input {
     font-size: 20px;
     gap: 5px;
     text-align: justify;
+    overflow-wrap: anywhere;
+    min-width: 0;
 }
 
 /* Botão calcular */
