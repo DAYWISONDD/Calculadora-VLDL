@@ -162,22 +162,10 @@ button {
 }
 
 button:hover {
-    background-color: #d60404;
-}
-/*No jav script*/
-.adequado {
-    color: green;
+    background-color: #083570;
 }
 
-.elevado {
-    color: red;
-}
 
-.baixo {
-    color: orange;
-}
-
-/* Texto explicativo */
 main {
     padding-bottom: 20px;
 }
@@ -268,7 +256,7 @@ footer p {
 
 
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
     .container {
         flex-direction: column;
         gap: 12px;
